@@ -253,6 +253,7 @@
   margin-bottom: 0.75rem;
   font-size: 1.25rem;
   font-weight: medium;
+  text-align: left;
 }
 
 .about___button {
@@ -304,7 +305,7 @@
 
 @media (min-width: 900px) {
   .___section.projects {
-    margin-top: 16.8rem;
+    margin-top: 20.8rem;
   }
 }
 
