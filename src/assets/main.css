@@ -16,7 +16,7 @@
   position: fixed;
   z-index: 9999999;
   bottom: 0;
-  display: flex;
+  display: none;
   justify-content: space-between;
   align-items: flex-end;
 
@@ -278,8 +278,8 @@
   /* font-family: Inter-Bold, sans-serif; */
   font-family: Inconsolata, sans-serif;
   color: white;
-  padding: 5px 10px;
-  font-size: 1.3rem;
+  padding: 10px;
+  font-size: 1.35rem;
 }
 
 .display___flex {
