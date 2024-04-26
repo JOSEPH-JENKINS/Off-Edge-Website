@@ -10,7 +10,7 @@
       <br />
       <h2 class="header___text desc">
         Say hello to unique, high-converting websites. Discover why we're the premier choice for
-        unleashing your brand's creativity online.<br /><br />We've got only 3 slots left this March & we're offering one year free web hosting
+        unleashing your brand's creativity online.<br /><br />We've got only 1 slots left this April & we're offering one year free web hosting
         for these slots.
         <span class="differ___text">Book an appointment to get in touch with us now!</span>
       </h2>
